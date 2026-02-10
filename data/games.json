@@ -1,0 +1,74 @@
+[
+  {
+    "id": "contra-nes",
+    "title": "魂斗罗",
+    "platform": "NES",
+    "core": "nes",
+    "genre": "动作",
+    "year": 1988,
+    "players": "1-2",
+    "description": "经典横版动作射击，节奏快，适合网页即时游玩测试。",
+    "cover": "https://images.unsplash.com/photo-1614294148960-9aa740632a87?auto=format&fit=crop&w=600&q=80",
+    "romHint": "使用你合法持有的 .nes ROM"
+  },
+  {
+    "id": "pokemon-fire-red",
+    "title": "口袋妖怪 火红",
+    "platform": "GBA",
+    "core": "gba",
+    "genre": "RPG",
+    "year": 2004,
+    "players": "1",
+    "description": "GBA 代表作，适合验证长流程存档与读档体验。",
+    "cover": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=600&q=80",
+    "romHint": "使用你合法持有的 .gba ROM"
+  },
+  {
+    "id": "ff6-snes",
+    "title": "最终幻想 VI",
+    "platform": "SNES",
+    "core": "snes",
+    "genre": "RPG",
+    "year": 1994,
+    "players": "1",
+    "description": "JRPG 经典，适合做多段剧情体验与存档点演示。",
+    "cover": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=600&q=80",
+    "romHint": "使用你合法持有的 .smc/.sfc ROM"
+  },
+  {
+    "id": "mario-kart-snes",
+    "title": "马里奥赛车",
+    "platform": "SNES",
+    "core": "snes",
+    "genre": "竞速",
+    "year": 1992,
+    "players": "1-2",
+    "description": "派对向竞速代表，适合测试键位和手柄映射。",
+    "cover": "https://images.unsplash.com/photo-1527011046414-4781f1f94f8c?auto=format&fit=crop&w=600&q=80",
+    "romHint": "使用你合法持有的 .smc/.sfc ROM"
+  },
+  {
+    "id": "castlevania-nes",
+    "title": "恶魔城",
+    "platform": "NES",
+    "core": "nes",
+    "genre": "动作",
+    "year": 1986,
+    "players": "1",
+    "description": "难度适中偏高，适合展示即时读档的便利性。",
+    "cover": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=600&q=80",
+    "romHint": "使用你合法持有的 .nes ROM"
+  },
+  {
+    "id": "winning-eleven-ps1",
+    "title": "实况足球",
+    "platform": "PS1",
+    "core": "psx",
+    "genre": "体育",
+    "year": 1998,
+    "players": "1-2",
+    "description": "PS1 时代足球游戏代表，可用于测试更高资源核心。",
+    "cover": "https://images.unsplash.com/photo-1575361204480-aadea25e6e68?auto=format&fit=crop&w=600&q=80",
+    "romHint": "使用你合法持有的 .bin/.cue ROM"
+  }
+]

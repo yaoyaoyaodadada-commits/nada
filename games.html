@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>游戏库 - RetroHub</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container nav-wrap">
+        <a class="logo" href="index.html">Retro<span>Hub</span></a>
+        <nav class="nav" aria-label="主导航">
+          <a href="index.html">首页</a>
+          <a href="games.html" class="active">游戏库</a>
+          <a href="favorites.html">我的收藏</a>
+          <a href="play.html">在线游玩</a>
+          <a href="guides.html">教程</a>
+          <a href="about.html">关于</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="container section">
+      <h1>游戏库</h1>
+      <p class="muted">可按关键词、平台、类型筛选。点击“详情”查看游戏信息并跳转游玩。</p>
+
+      <section class="card form-card">
+        <div class="form-grid">
+          <label>关键词搜索<input id="searchInput" type="search" placeholder="例如：魂斗罗 / RPG / SNES" /></label>
+          <label>平台<select id="platformFilter"><option value="">全部平台</option></select></label>
+          <label>类型<select id="genreFilter"><option value="">全部类型</option></select></label>
+        </div>
+      </section>
+
+      <section id="gamesList" class="section"></section>
+    </main>
+
+    <footer class="site-footer"><div class="container footer-wrap"><small>© 2026 RetroHub</small></div></footer>
+    <script src="app.js"></script>
+  </body>
+</html>
